@@ -7,16 +7,16 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>About - tg图床</title>
+    <title>About - TG图床</title>
     <?php include "static/view/head.html"; ?>
 </head>
 <?php include "static/view/nav.html"; ?>
     <div class="container mt-3 mb-3">
         <div class="page-header mt-3 mb-5">
-            <h1>关于 tg图床</h1>
+            <h1>关于 TG图床</h1>
         </div>
         <div class="border border-secondary shadow-sm p-3 mb-3 bg-white rounded">
-            <h2><i class="far fa-laugh-squint"></i>&nbsp;&nbsp;<a class="badge badge-secondary" href="/">tg图床</a>
+            <h2><i class="far fa-laugh-squint"></i>&nbsp;&nbsp;<a class="badge badge-secondary" href="/">TG图床</a>
             </h2>
             <p>免费图床仅供分享图片使用，我们保留随时删除图片并举报上传违规图片者的权利</p>
         </div>

@@ -23,12 +23,12 @@ function fileinput() {
         maxFileCount: 10,
         uploadAsync: !0,
         browseClass: "btn btn-secondary",
-        browseLabel: "Select Image(s)",
+        browseLabel: "选择图片",
         removeClass: "btn btn-danger",
-        removeLabel: "Clear",
+        removeLabel: "清除",
         uploadClass: "btn btn-info",
-        uploadLabel: "Upload",
-        dropZoneTitle: "Drag & drop files here ...<br>or<br>Copy & paste screenshots here ..."
+        uploadLabel: "上传",
+        dropZoneTitle: "将文件拖放到此处...<br>or<br>将屏幕截图复制并粘贴到此处..."
     }).on("fileuploaded", function (t, e, s, o) {
         var a = (e.form, e.files, e.extra, e.response);
         e.reader;

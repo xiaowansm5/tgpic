@@ -7,7 +7,7 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>tg图床</title>
+    <title>TG图床</title>
     <?php include "static/view/head.html"; ?>
     <script crossorigin="anonymous" integrity="sha384-4RTCcfPYk9Ynbsqfb8mxO6fADyCH+Hd9RaSvW6xO9/icE1biaZ1uw/qCx2BdQB2n"
         src="https://lib.baomitu.com/bootstrap-fileinput/5.0.6/js/fileinput.min.js"></script>
